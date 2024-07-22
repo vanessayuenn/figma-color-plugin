@@ -1,0 +1,10 @@
+{
+  "api": "1.0.0",
+  "editorType": [
+    "figma"
+  ],
+  "id": "color-api",
+  "name": "Color API",
+  "main": "build/main.js",
+  "ui": "build/ui.js"
+}
